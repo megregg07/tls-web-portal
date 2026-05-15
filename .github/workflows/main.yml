@@ -1,0 +1,16 @@
+name: nist-pages
+
+on:
+  push:
+    branches:
+      - nist-pages
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build and Deploy
+        # This triggers the NIST internal sync process
+        run: |
+          echo "Deploying to NIST Pages..."
