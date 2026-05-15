@@ -1,6 +1,6 @@
 # Site settings
-title: "NIST Pages Template"
-description: "Providing a page template for pages.nist.gov hosting groups."
+title: "Terrestrial Laser Scanner Interem Performance Assessment"
+description: "Landing page for all the TLS IPA materials"
 
 baseurl: "/tls-web-portal"
-rooturl: ""
+rooturl: "https://pages.nist.gov"
