@@ -50,4 +50,13 @@ If you are looking to collaborate or have questions about this framework, please
     NIST Statistical Engineering Division
   </a>
 
+  <span style="color: #ccc; font-size: 0.85em;">|</span>
+
+  <a href="https://www.nist.gov/osac" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #555; font-size: 0.85em; font-weight: bold;">
+    <svg style="width: 18px; height: 18px; margin-right: 6px; fill: #1b365d;" viewBox="0 0 24 24">
+      <path d="M19,3H5C3.9,3,3,3.9,3,5v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V5C21,3.9,20.1,3,19,3z M11,17H9v-2h2V17z M11,13H9v-2h2V13z M11,9H9V7h2V9z M15,17h-2v-2h2V17z M15,13h-2v-2h2V13z M15,9h-2V7h2V9z"/>
+    </svg>
+    Organization of Scientific Area <br>Committees (OSAC) for Forensic Science 
+  </a>
+
 </div>
