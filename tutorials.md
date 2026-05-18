@@ -36,7 +36,7 @@ permalink: /tutorials.html
   </iframe>
 </div>
 
-  <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 30px 0;">
+<hr style="border: 0; border-top: 1px solid #eaeaea; margin: 30px 0;">
 
   <h3 style="color: #1b365d; margin-bottom: 10px;">2. IPA Test Setup</h3>
 <p>
@@ -45,9 +45,7 @@ permalink: /tutorials.html
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; margin-bottom: 40px; border-radius: 4px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
-    src="https://www.youtube.com/watch?v=hcEFBfburRI" 
-    title="Overview of the IPA Test Procedure" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    src="https://www.youtube.com/embed/hcEFBfburRI" title="IPA Test Setup" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
     allowfullscreen>
   </iframe>
 </div>
