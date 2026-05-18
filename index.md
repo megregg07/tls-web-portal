@@ -14,13 +14,12 @@ The NIST Terrestrial Laser Scanner (TLS) web portal contains resources for perfo
 ### Project Architecture
 {: style="text-align: center;"}
 
-* **About**
-  Project background and citations.
-* **Tutorials**
-  Find links to tutorial videos.
-* **Web Application Tool**
-  Link to the TLS Web Application Tool.
-{: style="display: flex; justify-content: center; flex-wrap: wrap; text-align: center; gap: 40px; list-style-type: none; margin: 20px auto; max-width: 800px;"}
+* <strong style="display: block; margin-bottom: 5px;">About</strong>Project background and citations.
+* <strong style="display: block; margin-bottom: 5px;">Tutorials</strong>Find links to tutorial videos.
+* <strong style="display: block; margin-bottom: 5px;">Web Application Tool</strong>Link to the TLS Web Application Tool.
+{: style="display: flex; justify-content: center; flex-wrap: nowrap; text-align: center; gap: 30px; list-style-type: none; margin: 20px auto; max-width: 900px;"}
+
+{: style="flex: 1; min-width: 0;"}
 
 ***
 
