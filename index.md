@@ -17,9 +17,9 @@ The NIST Terrestrial Laser Scanner (TLS) web portal contains resources for perfo
 
 {: style="text-align: center;"}
 
-* <strong style="display: block; margin-bottom: 5px;">About</strong>Project background and citations.
-* <strong style="display: block; margin-bottom: 5px;">Tutorials</strong>Find links to tutorial videos.
-* <strong style="display: block; margin-bottom: 5px;">Web Application Tool</strong>Link to the TLS Web Application Tool.
+* <strong style="display: block; margin-bottom: 5px;">About</strong>Project background and citations
+* <strong style="display: block; margin-bottom: 5px;">Tutorials</strong>Find links to tutorial videos
+* <strong style="display: block; margin-bottom: 5px;">Web Application Tool</strong>Link to the TLS Web Application Tool
 {: style="display: flex; justify-content: center; flex-wrap: nowrap; text-align: center; gap: 30px; list-style-type: none; margin: 20px auto; max-width: 900px;"}
 
 {: style="flex: 1; min-width: 0;"}
@@ -30,4 +30,13 @@ The NIST Terrestrial Laser Scanner (TLS) web portal contains resources for perfo
 {: style="text-align: center;"}
 
 If you are looking to collaborate or have questions about this framework, please use the "Send Feedback" link below or [contact the project team directly](mailto:data@nist.gov?subject=TLS%20Web%20Portal%20Inquiry).
-{: style="text-align: center;"}
+{: style="text-align: center; margin-bottom: 25px;"}
+
+<div style="display: flex; justify-content: center; align-items: center; padding-top: 10px;">
+  <a href="https://www.nist.gov/itl/sed" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #555; font-size: 0.85em; font-weight: bold;">
+    <svg style="width: 18px; height: 18px; margin-right: 6px; fill: #1b365d;" viewBox="0 0 24 24">
+      <path d="M19,3H5C3.9,3,3,3.9,3,5v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V5C21,3.9,20.1,3,19,3z M11,17H9v-2h2V17z M11,13H9v-2h2V13z M11,9H9V7h2V9z M15,17h-2v-2h2V17z M15,13h-2v-2h2V13z M15,9h-2V7h2V9z"/>
+    </svg>
+    NIST Statistical Engineering Division (SED)
+  </a>
+</div>
