@@ -51,10 +51,3 @@ If you are looking to collaborate or have questions about this framework, please
   </a>
 
 </div>
-
-<div style="text-align: center; margin-top: 30px; font-size: 0.8em; color: #888888;">
-  <a href="https://www.nist.gov/privacy-policy" target="_blank" style="color: #888888; text-decoration: none; margin: 0 5px;">Privacy Policy</a> | 
-  <a href="https://www.nist.gov/summary-nist-privacy-policy#security" target="_blank" style="color: #888888; text-decoration: none; margin: 0 5px;">Security Notice</a> | 
-  <a href="https://www.nist.gov/accessibility" target="_blank" style="color: #888888; text-decoration: none; margin: 0 5px;">Accessibility Statement</a> | 
-  <a href="mailto:data@nist.gov?subject=TLS%20Feedback" style="color: #888888; text-decoration: none; margin: 0 5px;">Send feedback</a>
-</div>
