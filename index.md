@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<div style="background: #1b365d; padding: 60px 20px; border-radius: 4px; text-align: center; margin-bottom: 30px;">
+<div style="background-image: linear-gradient(rgba(27, 54, 93, 0.9), rgba(27, 54, 93, 0.9)); padding: 60px 20px; border-radius: 4px; text-align: center; margin-bottom: 30px;">
   <h1 style="color: #ffffff; margin: 0; font-size: 2.5em; text-shadow: 1px 1px 4px rgba(0,0,0,0.4);">
     Terrestrial Laser Scanner<br>Interim Performance Assessment
   </h1>
