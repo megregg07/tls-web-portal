@@ -11,12 +11,11 @@ permalink: /about.html
   <p>
 This project supports the ongoing development of national forensic standards by the Crime Scene Investigation and Reconstruction (CSIR) subcommittee within the Organization of Scientific Area Committees (OSAC) for Forensic Science, in close collaboration with the National Institute of Standards and Technology (NIST). The primary focus is the realization of a standardized Interim Performance Assessment (IPA) protocol that enables forensic practitioners and law enforcement agencies to conduct reliable, in-house quality assurance on terrestrial laser scanners (TLSs). This procedure provides an intermediate check to monitor instrument performance between regularly scheduled manufacturer calibrations. 
 
-The Interim Performance Assessment (IPA) test procedure consists of two primary components and a supplemental appendix:
+<hr style="border: 0; border-top: 1px solid #eaeaea; margin: 30px 0;">
+
+  <h3 style="color: #1b365d; margin-bottom: 15px;">The Interim Performance Assessment (IPA) test procedure consists of two primary components and a supplemental appendix:
 * Part I (Accuracy Testing): Evaluates instrument length accuracy by comparing scanned measurements against reference values.
 * Part II (Precision Assessment): Analyzes the scanner's overall spherical coordinate precision.
 * Appendix: Uses an inside-outside test to test for zero error.
-
-For instruments with a previously established baseline, users can optionally run this procedure to evaluate whether the scanner's spherical precision has significantly changed over time.
-  </p>
 
 </div>
