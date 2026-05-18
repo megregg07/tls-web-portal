@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<h1 style="color: #1b365d;">Terrestrial Laser Scanner<br>Interim Performance Assessment</h1>
+<h1 style="color: #1b365d; text-align: center;">Terrestrial Laser Scanner<br>Interim Performance Assessment</h1>
 
 The NIST Terrestrial Laser Scanner (TLS) web portal contains resources for performing the OSAC TLS Interim Performance Assessment test procedure to evaluate instrument performance.
 
