@@ -29,6 +29,18 @@ permalink: /about.html
     If the test procedure has been performed before, the user may optionally test if the instrument's spherical precision has changed.
   </p>
 
+  <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 30px 0;">
+
+  <h3 style="color: #1b365d; margin-bottom: 15px;">Link to Standard</h3>
+  <p>
+    The IPA test procedure is in the process of being incorporated as an official OSAC registry standard. Once the documentary standard is published, direct access to the standard will be hosted below:
+  </p>
+<p style="margin-top: 15px;">
+  <a href="[Insert Link Here]" target="_blank" style="color: #1b365d; text-decoration: none; font-weight: bold; display: inline-flex; align-items: center;">
+    [Insert Link Text Here, e.g., View the Published OSAC Standard] &rarr;
+  </a>
+</p>
+
 <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 30px 0;">
 
   <h3 style="color: #1b365d; margin-bottom: 15px;">Citations & Further Reading</h3>
