@@ -26,12 +26,6 @@ The NIST Terrestrial Laser Scanner (TLS) web portal contains resources for perfo
 
 ***
 
-### Contact Us
-{: style="text-align: center;"}
-
-For questions about this project, please use the "Send Feedback" link below or [contact the project team directly](mailto:data@nist.gov?subject=TLS%20Web%20Portal%20Inquiry).
-{: style="text-align: center;"}
-
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px; margin-top: 30px; margin-bottom: -60px;">
 
   <a href="https://www.nist.gov/pml/sensor-science" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #555; font-size: 0.85em; font-weight: bold;">
