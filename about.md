@@ -6,6 +6,19 @@ permalink: /about.html
 
 <div style="max-width: 800px; margin: 0 auto; padding: 20px 10px; line-height: 1.7; color: #333;">
 
+  <div style="background-color: #f9f9f9; border-left: 4px solid #1b365d; padding: 12px 20px; margin-bottom: 35px; border-radius: 4px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 15px;">
+    <strong style="color: #1b365d; font-size: 1em;">Portal Navigation:</strong>
+    <div style="display: flex; gap: 20px; flex-wrap: wrap;">
+      <a href="{{ '/' | relative_url }}" style="color: #1b365d; text-decoration: none; font-weight: bold; font-size: 0.9em;">&larr; Home</a>
+      <span style="color: #ccc; font-size: 0.9em;">|</span>
+      <a href="{{ '/tutorials.html' | relative_url }}" style="color: #1b365d; text-decoration: none; font-weight: bold; font-size: 0.9em;">Tutorials</a>
+      <span style="color: #ccc; font-size: 0.9em;">|</span>
+      <a href="{{ '/webapp.html' | relative_url }}" style="color: #1b365d; text-decoration: none; font-weight: bold; font-size: 0.9em;">Web Application Tool</a>
+    </div>
+  </div>
+
+<div style="max-width: 800px; margin: 0 auto; padding: 20px 10px; line-height: 1.7; color: #333;">
+
   <h1 style="color: #1b365d; margin-top: 0; margin-bottom: 25px; font-size: 2.2em;">About the Project</h1>
 
   <p>
