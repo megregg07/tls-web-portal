@@ -29,4 +29,28 @@ permalink: /about.html
     If the test procedure has been performed before, the user may optionally test if the instrument's spherical precision has changed.
   </p>
 
+<hr style="border: 0; border-top: 1px solid #eaeaea; margin: 30px 0;">
+
+  <h3 style="color: #1b365d; margin-bottom: 15px;">Citations & Further Reading</h3>
+  <p>
+    For additional details and background on the TLS Interim Performance Assessment protocol, please refer to the following publications:
+  </p>
+
+  <ul style="padding-left: 0; list-style-type: none; margin-top: 20px;">
+    
+    <li style="margin-bottom: 20px; padding-left: 25px; text-indent: -25px; font-size: 0.95em; color: #444;">
+      Gregg, M., Muralikrishnan, B., & Shilling, M. (2026). Toward a documentary standard for performance testing of terrestrial laser scanners used in forensic practice: A statistical procedure to assess change in instrument precision. <em>Journal of Forensic Sciences</em>. 
+      <a href="https://doi.org/10.1111/1556-4029.70256" target="_blank" style="color: #1b365d; text-decoration: none; font-weight: bold; word-break: break-all;">
+        https://doi.org/10.1111/1556-4029.70256
+      </a>
+    </li>
+
+    <li style="margin-bottom: 20px; padding-left: 25px; text-indent: -25px; font-size: 0.95em; color: #444;">
+      Muralikrishnan, B., Shilling, M., Gregg, M., Lee, V., Keller, J., Casey, E., Liscio, E., O'Neil, B., Russ, M., & Terpstra, T. (2025). <em>Report on the May 2025 NIST Measurement Week: Realization of an OSAC Draft Interim Performance Assessment for Terrestrial Laser Scanners Used by Law Enforcement Agencies</em> (NIST IR 8583). National Institute of Standards and Technology. 
+      <a href="https://doi.org/10.6028/NIST.IR.8583" target="_blank" style="color: #1b365d; text-decoration: none; font-weight: bold; word-break: break-all;">
+        https://doi.org/10.6028/NIST.IR.8583
+      </a>
+    </li>
+
+  </ul>
 </div>
