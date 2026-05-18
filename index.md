@@ -20,7 +20,7 @@ The NIST Terrestrial Laser Scanner (TLS) web portal contains resources for perfo
 * <strong style="display: block; margin-bottom: 5px; font-size: 1.25em;">About</strong>Project background and citations
 * <strong style="display: block; margin-bottom: 5px; font-size: 1.25em;">Tutorials</strong>Find links to tutorial videos
 * <strong style="display: block; margin-bottom: 5px; font-size: 1.25em;">Web Application Tool</strong>Link to the TLS Web Application Tool
-{: style="display: flex; justify-content: center; flex-wrap: nowrap; text-align: center; gap: 45px; list-style-type: none; margin: 20px auto; max-width: 900px;"}
+{: style="display: flex; justify-content: center; flex-wrap: nowrap; text-align: center; gap: 45px; list-style-type: none; margin: 50px auto; max-width: 900px;"}
 
 {: style="flex: 1; min-width: 0;"}
 
@@ -32,7 +32,7 @@ The NIST Terrestrial Laser Scanner (TLS) web portal contains resources for perfo
 If you are looking to collaborate or have questions about this framework, please use the "Send Feedback" link below or [contact the project team directly](mailto:data@nist.gov?subject=TLS%20Web%20Portal%20Inquiry).
 {: style="text-align: center; margin-bottom: 25px;"}
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px; padding-top: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px; margin-top: 80px; padding-top: 10px; border-top: 1px solid #eaeaea;">
 
   <a href="https://www.nist.gov/pml/sensor-science" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #555; font-size: 0.85em; font-weight: bold;">
     <svg style="width: 18px; height: 18px; margin-right: 6px; fill: #1b365d; flex-shrink: 0;" viewBox="0 0 24 24">
