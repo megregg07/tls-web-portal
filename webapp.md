@@ -20,7 +20,7 @@ permalink: /webapp.html
   <h1 style="color: #1b365d; margin-top: 0; margin-bottom: 15px; font-size: 2.2em;">TLS Web Application Tool</h1>
   
   <p>
-    Recognizing the significant computational burden of processing spatial coordination metrics, this free web utility streamlines data processing for the Terrestrial Laser Scanner (TLS) Interim Performance Assessment (IPA) protocol. Users can seamlessly upload target center coordinates extracted from their scanner's software along with field-recorded tape measurements to automate compliance calculations[cite: 518, 520, 634].
+    Recognizing the significant computational burden of processing spatial coordination metrics, this free web utility streamlines data processing for the Terrestrial Laser Scanner (TLS) Interim Performance Assessment (IPA) protocol. Users can seamlessly upload target center coordinates extracted from their scanner's software along with field-recorded tape measurements to automate compliance calculations.
   </p>
 
   <div style="background-color: #f0f4f8; border: 1px solid #d0e0f0; border-radius: 6px; padding: 25px; margin: 30px 0; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
@@ -36,25 +36,41 @@ permalink: /webapp.html
     </a>
   </div>
 
-  <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 30px 0;">
+  <div style="background-color: #ffffff; border: 1px solid #eaeaea; border-left: 4px solid #1b365d; border-radius: 4px; padding: 20px; margin-bottom: 30px; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+    <h4 style="color: #1b365d; margin-top: 0; margin-bottom: 8px; font-size: 1.1em;">Data Re-Formatting Tool</h4>
+    <p style="font-size: 0.95em; color: #555; margin-bottom: 15px;">
+      Need to prepare your raw coordinate logs? Use this utility script to instantly convert manufacturer software output formats into the exact CSV structure required by the main web application.
+    </p>
+    <a href="[Insert Pre-processing Tool Link Here]" target="_blank" style="color: #1b365d; font-weight: bold; text-decoration: none; font-size: 0.95em; display: inline-flex; align-items: center;">
+      Format Data for Web App &rarr;
+    </a>
+  </div>
 
-  <h3 style="color: #1b365d; margin-bottom: 15px;">Automated Processing Functions</h3>
-  <p>The backend of the application performs the data reductions defined by the draft forensic standard[cite: 344]:</p>
-  
-  <ul style="padding-left: 20px; list-style-type: square; margin-bottom: 20px;">
-    <li style="margin-bottom: 10px;">
-      <strong style="color: #1b365d;">Bundle Adjustment Alignment:</strong> Converts independent target datasets into a centralized frame of reference using a rigid body transformation minimizing coordinate translation and rotation discrepancies[cite: 142, 143].
-    </li>
-    <li style="margin-bottom: 10px;">
-      <strong style="color: #1b365d;">Residual Calculation:</strong> Automatically maps Cartesian values to spherical coordinate frames ($\theta, \phi, r$) and calculates spherical residuals relative to composite averages[cite: 91, 93, 150].
-    </li>
-    <li style="margin-bottom: 10px;">
-      <strong style="color: #1b365d;">Robust Omnibus Hypothesis Testing:</strong> Executes a multivariate analog to Levene's test to statistically evaluate ($H_0: \Sigma_1 = \Sigma_2$) whether your instrument's baseline operational precision has shifted significantly over longitudinal testing windows[cite: 134, 156, 157].
-    </li>
-    <li style="margin-bottom: 10px;">
-      <strong style="color: #1b365d;">Data Ellipse Visualization:</strong> Generates interactive bivariate scatterplots bounded by proportional variance and covariance ellipses, allowing users to quickly see exactly how an instrument's precision profile may be tracking over time[cite: 182, 189, 190].
-    </li>
-  </ul>
+  <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 30px;">
+    
+    <div style="flex: 1; min-width: 280px; background-color: #ffffff; border: 1px solid #eaeaea; padding: 20px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+      <h4 style="color: #1b365d; margin-top: 0; margin-bottom: 8px; font-size: 1.1em;">User Documentation Manual</h4>
+      <p style="font-size: 0.9em; color: #666; margin-bottom: 15px;">
+        Download the step-by-step PDF software guide detailing input data configurations, test execution requirements, and result log interpretation metrics.
+      </p>
+      <a href="[Insert User Manual Download Link Here]" target="_blank" style="color: #1b365d; font-weight: bold; text-decoration: none; font-size: 0.9em; display: inline-flex; align-items: center;">
+        <svg style="width: 16px; height: 16px; margin-right: 6px; fill: #1b365d;" viewBox="0 0 24 24"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
+        Download Documentation Manual
+      </a>
+    </div>
+
+    <div style="flex: 1; min-width: 280px; background-color: #ffffff; border: 1px solid #eaeaea; padding: 20px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+      <h4 style="color: #1b365d; margin-top: 0; margin-bottom: 8px; font-size: 1.1em;">Example Reference Datasets</h4>
+      <p style="font-size: 0.9em; color: #666; margin-bottom: 15px;">
+        Download verified sample target data vectors to run a test simulation and observe how the statistical assessment framework processes baseline metrics.
+      </p>
+      <a href="[Insert Example Data Download Link Here]" target="_blank" style="color: #1b365d; font-weight: bold; text-decoration: none; font-size: 0.9em; display: inline-flex; align-items: center;">
+        <svg style="width: 16px; height: 16px; margin-right: 6px; fill: #1b365d;" viewBox="0 0 24 24"><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/></svg>
+        Download Sample Data (.zip)
+      </a>
+    </div>
+
+  </div>
 
   <div style="margin-top: 50px; border-top: 1px solid #eaeaea; padding-top: 25px; text-align: center;">
     <a href="{{ '/' | relative_url }}" style="display: inline-flex; align-items: center; background-color: #1b365d; color: #ffffff; padding: 10px 20px; font-size: 0.95em; font-weight: bold; text-decoration: none; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
