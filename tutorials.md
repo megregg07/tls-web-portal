@@ -52,6 +52,5 @@ permalink: /tutorials.html
     </iframe>
   </div>
 
-</div> ```
+</div> 
 
-Once you commit this completely flattened HTML layout to your repository, the printed code text will vanish, and video 2 will load up perfectly right next to it!
