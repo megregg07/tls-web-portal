@@ -19,7 +19,7 @@ permalink: /tutorials.html
 
   <h1 style="color: #1b365d; margin-top: 0; margin-bottom: 10px; font-size: 2.2em;">Tutorial Videos</h1>
   <p style="margin-bottom: 30px; color: #666;">
-    Follow these instructional video guides to properly set up your environment, gather target metrics, and run the automated web assessment tool.
+    Follow these instructional video guides to properly set up your environment, perform the IPA test procedure, and upload the data to the automated web assessment tool.
   </p>
 
   <h3 style="color: #1b365d; margin-bottom: 10px;">1. Overview of the IPA Test Procedure</h3>
