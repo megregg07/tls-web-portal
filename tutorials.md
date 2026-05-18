@@ -31,7 +31,7 @@ permalink: /tutorials.html
       <div style="display: flex; gap: 20px; flex-wrap: wrap;">
         <a href="{{ '/' | relative_url }}" style="color: #1b365d; text-decoration: none; font-weight: bold; font-size: 0.9em;">&larr; Home</a>
         <span style="color: #ccc; font-size: 0.9em;">|</span>
-        <a href="{{ '/about.html' | relative_url }}" style="color: #1b365d; text-decoration: none; font-weight: bold; font-size: 0.9em;">About Project</a>
+        <a href="{{ '/about.html' | relative_url }}" style="color: #1b365d; text-decoration: none; font-weight: bold; font-size: 0.9em;">About</a>
         <span style="color: #ccc; font-size: 0.9em;">|</span>
         <a href="{{ '/webapp.html' | relative_url }}" style="color: #1b365d; text-decoration: none; font-weight: bold; font-size: 0.9em;">Web Application Tool</a>
       </div>
