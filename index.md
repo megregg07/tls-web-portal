@@ -3,10 +3,22 @@ layout: default
 title: Home
 ---
 
-# Terrestrial Laser Scanner<br>Interim Performance Assessment
-{: style="text-align: center; color: #1b365d;"}
+<div style="
+  background-image: linear-gradient(rgba(27, 54, 93, 0.85), rgba(27, 54, 93, 0.85)), url('banner.png');
+  background-size: cover;
+  background-position: center;
+  padding: 60px 20px;
+  border-radius: 4px;
+  text-align: center;
+  margin-bottom: 30px;
+">
+  <h1 style="color: #ffffff; margin: 0; font-size: 2.5em; text-shadow: 1px 1px 4px rgba(0,0,0,0.4);">
+    Terrestrial Laser Scanner<br>Interim Performance Assessment
+  </h1>
+</div>
 
-The NIST Terrestrial Laser Scanner (TLS) web portal contains resources for performing <br>the OSAC TLS Interim Performance Assessment test procedure to evaluate instrument performance.
+{: style="text-align: center;"}
+The NIST Terrestrial Laser Scanner (TLS) web portal contains resources for performing the OSAC TLS Interim Performance Assessment test procedure to evaluate instrument performance.
 {: style="text-align: center;"}
 
 ***
