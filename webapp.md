@@ -20,13 +20,13 @@ permalink: /webapp.html
   <h1 style="color: #1b365d; margin-top: 0; margin-bottom: 15px; font-size: 2.2em;">TLS Web Application Tool</h1>
   
   <p>
-    Recognizing the significant computational burden of processing spatial coordination metrics, this free web utility streamlines data processing for the Terrestrial Laser Scanner (TLS) Interim Performance Assessment (IPA) protocol. Users can seamlessly upload target center coordinates extracted from their scanner's software along with field-recorded tape measurements to automate compliance calculations.
+    Recognizing the significant computational burden of the IPA test procedure, this free web application tool provides users a straightforward way to conduct the Part I and Part II analysis and download a PDF report for their records.
   </p>
 
   <div style="background-color: #f0f4f8; border: 1px solid #d0e0f0; border-radius: 6px; padding: 25px; margin: 30px 0; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <h4 style="color: #1b365d; margin-top: 0; margin-bottom: 10px; font-size: 1.2em;">Access the Computational App</h4>
     <p style="font-size: 0.95em; color: #555; margin-bottom: 20px;">
-      Launch the external TLS analysis portal to compute distance errors, evaluate equality of covariance matrices, and model target uncertainty profiles.
+      Launch the external TLS analysis tool to perform the IPA calculations.
     </p>
     <a href="[Insert Live Web App URL Here]" target="_blank" style="display: inline-flex; align-items: center; background-color: #1b365d; color: #ffffff; padding: 12px 24px; font-size: 1em; font-weight: bold; text-decoration: none; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.15);">
       <svg style="width: 20px; height: 20px; margin-right: 8px; fill: #ffffff; flex-shrink: 0;" viewBox="0 0 24 24">
@@ -39,7 +39,7 @@ permalink: /webapp.html
   <div style="background-color: #ffffff; border: 1px solid #eaeaea; border-left: 4px solid #1b365d; border-radius: 4px; padding: 20px; margin-bottom: 30px; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
     <h4 style="color: #1b365d; margin-top: 0; margin-bottom: 8px; font-size: 1.1em;">Data Re-Formatting Tool</h4>
     <p style="font-size: 0.95em; color: #555; margin-bottom: 15px;">
-      Need to prepare your raw coordinate logs? Use this utility script to instantly convert manufacturer software output formats into the exact CSV structure required by the main web application.
+      Need to convert individual files into the combined format required by the analysis software? Use this utility script to instantly convert raw Cartesian coordinates into the CSV structure required by the main web application.
     </p>
     <a href="[Insert Pre-processing Tool Link Here]" target="_blank" style="color: #1b365d; font-weight: bold; text-decoration: none; font-size: 0.95em; display: inline-flex; align-items: center;">
       Format Data for Web App &rarr;
