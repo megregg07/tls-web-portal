@@ -19,7 +19,7 @@ The NIST Terrestrial Laser Scanner (TLS) web portal contains resources for perfo
 
 * <strong style="display: block; margin-bottom: 5px; font-size: 1.5em;"><a href="{{ '/about.html' | relative_url }}" style="color: #1b365d; text-decoration: none;">About</a></strong>Project background and citations
 * <strong style="display: block; margin-bottom: 5px; font-size: 1.5em;"><a href="{{ '/tutorials.html' | relative_url }}" style="color: #1b365d; text-decoration: none;">Tutorials</a></strong>Find links to tutorial videos
-* <strong style="display: block; margin-bottom: 5px; font-size: 1.5em;">Web Application Tool</strong>Link to the TLS Web Application Tool
+* <strong style="display: block; margin-bottom: 5px; font-size: 1.5em;"><a href="{{ '/webapp.html' | relative_url }}" style="color: #1b365d; text-decoration: none;">Web Application Tool</a></strong>Use our online tool to analyze your data
 {: style="display: flex; justify-content: center; flex-wrap: nowrap; text-align: center; gap: 70px; list-style-type: none; margin: 80px auto;"}
 
 {: style="flex: 1; min-width: 0;"}
