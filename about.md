@@ -13,9 +13,10 @@ This project supports the ongoing development of national forensic standards by 
 
 <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 30px 0;">
 
-  <h3 style="color: #1b365d; margin-bottom: 15px;">The Interim Performance Assessment (IPA) test procedure consists of two primary components and a supplemental appendix:
+  <h3 style="color: #1b365d; margin-bottom: 15px;">[IPA Overview]</h3>
+  <p>The Interim Performance Assessment (IPA) test procedure consists of two primary components and a supplemental appendix:
 * Part I (Accuracy Testing): Evaluates instrument length accuracy by comparing scanned measurements against reference values.
 * Part II (Precision Assessment): Analyzes the scanner's overall spherical coordinate precision.
-* Appendix: Uses an inside-outside test to test for zero error.
+* Appendix: Uses an inside-outside test to test for zero error.</p>
 
 </div>
