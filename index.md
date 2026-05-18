@@ -9,24 +9,25 @@ title: Home
 The NIST Terrestrial Laser Scanner (TLS) web portal contains resources for performing the OSAC TLS Interim Performance Assessment test procedure to evaluate instrument performance.
 
 ---
+<div style="max-width: 800px; margin: 0 auto;">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; text-align: center; gap: 40px; margin-top: 20px;">
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; text-align: center; gap: 20px; margin-top: 20px;">
+    <div style="flex: 1; min-width: 180px; max-width: 220px; padding: 10px;">
+      <strong>About</strong>
+      <p style="font-size: 0.95em; color: #555;">Project background and citations.</p>
+    </div>
 
-  <div style="flex: 1; min-width: 200px; padding: 10px;">
-    <strong>About</strong>
-    <p style="font-size: 0.95em; color: #555;">Project background and citations.</p>
+    <div style="flex: 1; min-width: 180px; max-width: 220px; padding: 10px;">
+      <strong>Tutorials</strong>
+      <p style="font-size: 0.95em; color: #555;">Find links to tutorial videos.</p>
+    </div>
+
+    <div style="flex: 1; min-width: 180px; max-width: 220px; padding: 10px;">
+      <strong>Web Application Tool</strong>
+      <p style="font-size: 0.95em; color: #555;">Link to the TLS Web Application Tool.</p>
+    </div>
+
   </div>
-
-  <div style="flex: 1; min-width: 200px; padding: 10px;">
-    <strong>Tutorials</strong>
-    <p style="font-size: 0.95em; color: #555;">Find links to tutorial videos.</p>
-  </div>
-
-  <div style="flex: 1; min-width: 200px; padding: 10px;">
-    <strong>Web Application Tool</strong>
-    <p style="font-size: 0.95em; color: #555;">Link to the TLS Web Application Tool.</p>
-  </div>
-
 </div>
 
 ---
