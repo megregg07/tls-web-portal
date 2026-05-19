@@ -13,12 +13,12 @@ permalink: /tutorials.html
     <ul style="list-style-type: none; padding-left: 0; margin: 0; line-height: 1.6;">
       <li style="margin-bottom: 12px;">
         <a href="#video-1" style="color: #1b365d; text-decoration: none; font-weight: bold; font-size: 0.9em; display: block;">
-          1. Overview of the IPA Test Procedure
+          1. What is the IPA?
         </a>
       </li>
       <li style="margin-bottom: 12px;">
         <a href="#video-2" style="color: #1b365d; text-decoration: none; font-weight: bold; font-size: 0.9em; display: block;">
-          2. IPA Test Setup
+          2. How to Perform the IPA
         </a>
       </li>
       </ul>
@@ -43,8 +43,8 @@ permalink: /tutorials.html
     </p>
 
     <div id="video-1" style="scroll-margin-top: 20px;">
-      <h3 style="color: #1b365d; margin-bottom: 10px;">1. Introduction to the IPA Test Procedure</h3>
-      <p>A brief overview of the IPA test procedure.</p>
+      <h3 style="color: #1b365d; margin-bottom: 10px;">1. What is the IPA?</h3>
+      <p>A brief overview introducting the IPA test procedure.</p>
       <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; margin-bottom: 40px; border-radius: 4px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
         <iframe 
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
@@ -59,7 +59,7 @@ permalink: /tutorials.html
     <hr style="border: 0; border-top: 1px solid #eaeaea; margin: 40px 0;">
 
     <div id="video-2" style="scroll-margin-top: 20px;">
-      <h3 style="color: #1b365d; margin-bottom: 10px;">2. IPA Test Setup</h3>
+      <h3 style="color: #1b365d; margin-bottom: 10px;">2. How to Perform the IPA</h3>
       <p>Instructional video on how to perform the IPA test procedure.</p>
       <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; margin-bottom: 40px; border-radius: 4px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
         <iframe 
