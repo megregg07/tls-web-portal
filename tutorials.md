@@ -72,14 +72,13 @@ permalink: /tutorials.html
       </div>
     </div>
 
-  </div>
-
-    <div style="margin-top: 50px; border-top: 1px solid #eaeaea; padding-top: 25px; text-align: center;">
+<div style="margin-top: 50px; border-top: 1px solid #eaeaea; padding-top: 25px; text-align: center;">
     <a href="{{ '/' | relative_url }}" style="display: inline-flex; align-items: center; background-color: #1b365d; color: #ffffff; padding: 10px 20px; font-size: 0.95em; font-weight: bold; text-decoration: none; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
       <svg style="width: 18px; height: 18px; margin-right: 8px; fill: #ffffff; flex-shrink: 0;" viewBox="0 0 24 24">
         <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/>
       </svg>
       Back to Home Page
     </a>
+  </div>
   </div>
 </div>
