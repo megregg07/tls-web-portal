@@ -44,7 +44,7 @@ permalink: /tutorials.html
 
     <div id="video-1" style="scroll-margin-top: 20px;">
       <h3 style="color: #1b365d; margin-bottom: 10px;">1. What is the IPA?</h3>
-      <p>A brief overview introducting the IPA test procedure.</p>
+      <p>A brief overview of the IPA test procedure.</p>
       <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; margin-bottom: 40px; border-radius: 4px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
         <iframe 
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
