@@ -49,20 +49,20 @@ permalink: /webapp.html
   <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 30px;">
     
     <div style="flex: 1; min-width: 280px; background-color: #ffffff; border: 1px solid #eaeaea; padding: 20px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
-      <h4 style="color: #1b365d; margin-top: 0; margin-bottom: 8px; font-size: 1.1em;">User Documentation Manual</h4>
+      <h4 style="color: #1b365d; margin-top: 0; margin-bottom: 8px; font-size: 1.1em;">User Manual</h4>
       <p style="font-size: 0.9em; color: #666; margin-bottom: 15px;">
-        Download the step-by-step PDF software guide detailing input data configurations, test execution requirements, and result log interpretation metrics.
+        Download the PDF user manual detailing the data formatting requirements and step-by-step process for using the analysis software. 
       </p>
       <a href="[Insert User Manual Download Link Here]" target="_blank" style="color: #1b365d; font-weight: bold; text-decoration: none; font-size: 0.9em; display: inline-flex; align-items: center;">
         <svg style="width: 16px; height: 16px; margin-right: 6px; fill: #1b365d;" viewBox="0 0 24 24"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"/></svg>
-        Download Documentation Manual
+        Download User Manual
       </a>
     </div>
 
     <div style="flex: 1; min-width: 280px; background-color: #ffffff; border: 1px solid #eaeaea; padding: 20px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
-      <h4 style="color: #1b365d; margin-top: 0; margin-bottom: 8px; font-size: 1.1em;">Example Reference Datasets</h4>
+      <h4 style="color: #1b365d; margin-top: 0; margin-bottom: 8px; font-size: 1.1em;">Example Example Datasets</h4>
       <p style="font-size: 0.9em; color: #666; margin-bottom: 15px;">
-        Download verified sample target data vectors to run a test simulation and observe how the statistical assessment framework processes baseline metrics.
+        Download example datasets discussed in the user manual.
       </p>
       <a href="[Insert Example Data Download Link Here]" target="_blank" style="color: #1b365d; font-weight: bold; text-decoration: none; font-size: 0.9em; display: inline-flex; align-items: center;">
         <svg style="width: 16px; height: 16px; margin-right: 6px; fill: #1b365d;" viewBox="0 0 24 24"><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/></svg>
