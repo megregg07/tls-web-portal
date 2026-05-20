@@ -97,7 +97,7 @@ permalink: /webapp.html
         <span style="display: inline-block; background-color: #edf2f7; color: #4a5568; font-size: 0.7em; font-weight: bold; padding: 2px 6px; border-radius: 3px; margin-bottom: 8px; text-transform: uppercase;">Text Workflows</span>
         <h3 style="color: #2d3748; margin-top: 0; margin-bottom: 8px; font-size: 1.2em;">Data Processing Tool</h3>
         <p style="font-size: 0.85em; color: #555; margin-bottom: 15px; line-height: 1.5;">
-          A simple preparation utility [cite: 4] that combines four separate position scans into a single data file[cite: 6, 12, 43]. It automatically fixes scrambled target rows [cite: 12, 43] and formats raw coordinates [cite: 4, 18] so they match perfectly [cite: 11] and can be uploaded directly into the main Data Analysis Tool[cite: 5]. 
+          A simple preparation utility that combines four separate position scans (CSV or TXT format) into a single CSV data file. The resulting file adheres to the TLS data formatting required by the main Data Analysis Tool . 
         </p>
       </div>
       
