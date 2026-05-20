@@ -19,7 +19,7 @@ permalink: /webapp.html
 
   <h1 style="color: #1b365d; margin-top: 0; margin-bottom: 15px; font-size: 2.2em;">TLS Web Application Suite</h1>
   <p style="margin-bottom: 35px; color: #555;">
-    Welcome to the IPA computational toolkit. Most users can go straight to the core Data Analysis Platform. If you are starting with raw data formats, use our companion file formatting utilities below to prepare your datasets first.
+    Welcome to the IPA computational toolkit. Most users can go straight to the core Data Analysis Platform. If you are starting with raw target outputs, use our matching file formatting utilities below to compile your datasets first.
   </p>
 
 
@@ -70,16 +70,16 @@ permalink: /webapp.html
 
     <div style="flex: 1; min-width: 280px; background-color: #ffffff; border: 1px solid #e2e8f0; border-top: 4px solid #718096; padding: 20px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.02); display: flex; flex-direction: column; justify-content: space-between;">
       <div>
-        <span style="display: inline-block; background-color: #edf2f7; color: #4a5568; font-size: 0.7em; font-weight: bold; padding: 2px 6px; border-radius: 3px; margin-bottom: 8px; text-transform: uppercase;">Optional Link 1</span>
-        <h3 style="color: #2d3748; margin-top: 0; margin-bottom: 8px; font-size: 1.2em;">DXF File Converter</h3>
+        <span style="display: inline-block; background-color: #edf2f7; color: #4a5568; font-size: 0.7em; font-weight: bold; padding: 2px 6px; border-radius: 3px; margin-bottom: 8px; text-transform: uppercase;">CAD Workflows</span>
+        <h3 style="color: #2d3748; margin-top: 0; margin-bottom: 8px; font-size: 1.2em;">DXF File Processor</h3>
         <p style="font-size: 0.85em; color: #555; margin-bottom: 15px; line-height: 1.5;">
-          If your scanning environment outputs target matrices as architectural spatial drawing schemas, use this extractor tool to quickly isolate raw spatial values into clean text elements. <em>(Skip this step if you already possess tab-separated data values).</em>
+          Converts **four independent .dxf files** into the single, unified .csv matrix required by the analysis engine. Use this utility if your scanning software outputs data as spatial drawing schemas.
         </p>
       </div>
       
       <div style="border-top: 1px solid #edf2f7; padding-top: 12px; margin-top: 10px;">
         <a href="[Insert DXF Tool URL]" target="_blank" style="color: #1b365d; font-weight: bold; text-decoration: none; font-size: 0.9em; display: inline-block; margin-bottom: 8px;">
-          Launch DXF Converter &rarr;
+          Launch DXF Processor &rarr;
         </a>
         <br>
         <a href="[Insert DXF Manual URL]" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">
@@ -94,10 +94,10 @@ permalink: /webapp.html
 
     <div style="flex: 1; min-width: 280px; background-color: #ffffff; border: 1px solid #e2e8f0; border-top: 4px solid #718096; padding: 20px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.02); display: flex; flex-direction: column; justify-content: space-between;">
       <div>
-        <span style="display: inline-block; background-color: #edf2f7; color: #4a5568; font-size: 0.7em; font-weight: bold; padding: 2px 6px; border-radius: 3px; margin-bottom: 8px; text-transform: uppercase;">Optional Link 2</span>
+        <span style="display: inline-block; background-color: #edf2f7; color: #4a5568; font-size: 0.7em; font-weight: bold; padding: 2px 6px; border-radius: 3px; margin-bottom: 8px; text-transform: uppercase;">Text Workflows</span>
         <h3 style="color: #2d3748; margin-top: 0; margin-bottom: 8px; font-size: 1.2em;">Data Processing Tool</h3>
         <p style="font-size: 0.85em; color: #555; margin-bottom: 15px; line-height: 1.5;">
-          A conditioning interpreter used to map independent log coordinates into the consolidated multi-column tables required by the analysis engine. Run this once anytime you compile a fresh test survey.
+          Converts **four independent files (either .txt or .csv)** into the single, unified .csv matrix layout. Use this formatting engine if your instrument exports raw tab-delimited or comma-separated tables.
         </p>
       </div>
       
@@ -114,7 +114,7 @@ permalink: /webapp.html
           Sample Files (.zip)
         </a>
         <span style="display: block; font-size: 0.75em; color: #718096; margin-top: 4px; line-height: 1.3;">
-          Accepts **CSV** or **TXT** files to replicate the Analysis Example 1 file structure.
+          Processes 4 input components to replicate the Analysis Example 1 file structure.
         </span>
       </div>
     </div>
