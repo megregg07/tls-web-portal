@@ -103,7 +103,7 @@ permalink: /webapp.html
       
       <div style="border-top: 1px solid #edf2f7; padding-top: 12px; margin-top: 10px;">
         <a href="[Insert Data Processing Tool URL]" target="_blank" style="color: #1b365d; font-weight: bold; text-decoration: none; font-size: 0.9em; display: inline-block; margin-bottom: 8px;">
-          Launch Processing Tool &rarr;
+          Launch CVS/TXT Processor &rarr;
         </a>
         <br>
         <a href="[Insert Processing Manual PDF URL]" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">
