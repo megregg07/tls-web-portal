@@ -83,7 +83,7 @@ permalink: /webapp.html
         </a>
         <br>
         <a href="[Insert DXF Manual URL]" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">
-          Download PDF Manual
+          Download User Manual (PDF)
         </a>
         <span style="color: #ccc; margin: 0 4px;">|</span>
         <a href="[Insert DXF Data URL]" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">
@@ -107,7 +107,7 @@ permalink: /webapp.html
         </a>
         <br>
         <a href="[Insert Processing Manual PDF URL]" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">
-          Download PDF Manual
+          Download User Manual (PDF)
         </a>
         <span style="color: #ccc; margin: 0 4px;">|</span>
         <a href="[Insert Processing Sample ZIP URL]" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">
