@@ -71,9 +71,9 @@ permalink: /webapp.html
     <div style="flex: 1; min-width: 280px; background-color: #ffffff; border: 1px solid #e2e8f0; border-top: 4px solid #718096; padding: 20px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.02); display: flex; flex-direction: column; justify-content: space-between;">
       <div>
         <span style="display: inline-block; background-color: #edf2f7; color: #4a5568; font-size: 0.7em; font-weight: bold; padding: 2px 6px; border-radius: 3px; margin-bottom: 8px; text-transform: uppercase;">CAD Workflows</span>
-        <h3 style="color: #2d3748; margin-top: 0; margin-bottom: 8px; font-size: 1.2em;">DXF File Processor</h3>
+        <h3 style="color: #2d3748; margin-top: 0; margin-bottom: 8px; font-size: 1.2em;">Data Processing Tool (DXF)</h3>
         <p style="font-size: 0.85em; color: #555; margin-bottom: 15px; line-height: 1.5;">
-          Converts four independent .dxf files into a single, unified data matrix. Use this utility if scanning software outputs target data within spatial drawing layouts.
+          Converts four .dxf scan files into a single .csv data file adhering to the TLS data formatting required by the main Data Analysis Tool.
         </p>
       </div>
       
@@ -95,9 +95,9 @@ permalink: /webapp.html
     <div style="flex: 1; min-width: 280px; background-color: #ffffff; border: 1px solid #e2e8f0; border-top: 4px solid #718096; padding: 20px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.02); display: flex; flex-direction: column; justify-content: space-between;">
       <div>
         <span style="display: inline-block; background-color: #edf2f7; color: #4a5568; font-size: 0.7em; font-weight: bold; padding: 2px 6px; border-radius: 3px; margin-bottom: 8px; text-transform: uppercase;">Text Workflows</span>
-        <h3 style="color: #2d3748; margin-top: 0; margin-bottom: 8px; font-size: 1.2em;">Data Processing Tool</h3>
+        <h3 style="color: #2d3748; margin-top: 0; margin-bottom: 8px; font-size: 1.2em;">Data Processing Tool (CSV/TXT)</h3>
         <p style="font-size: 0.85em; color: #555; margin-bottom: 15px; line-height: 1.5;">
-          A simple preparation utility that combines four separate position scans (CSV or TXT format) into a single CSV data file. The resulting file adheres to the TLS data formatting required by the main Data Analysis Tool . 
+          Converts four .csv or .txt files into a single .csv data file adhering to the TLS data formatting required by the main Data Analysis Tool.
         </p>
       </div>
       
@@ -113,9 +113,6 @@ permalink: /webapp.html
         <a href="[Insert Processing Sample ZIP URL]" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">
           Sample Files (.zip)
         </a>
-        <span style="display: block; font-size: 0.75em; color: #718096; margin-top: 4px; line-height: 1.3;">
-          Processes four input text or comma-separated files [cite: 16, 17] to match the baseline dataset structure of the main platform[cite: 5, 67].
-        </span>
       </div>
     </div>
 
