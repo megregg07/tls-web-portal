@@ -19,7 +19,7 @@ permalink: /webapp.html
 
   <h1 style="color: #1b365d; margin-top: 0; margin-bottom: 15px; font-size: 2.2em;">TLS Web Application Suite</h1>
   <p style="margin-bottom: 35px; color: #555;">
-    Welcome to the IPA computational toolkit. Most users can go straight to the core Data Analysis Platform. If you are starting with raw target outputs, use our matching file formatting utilities below to compile your datasets first.
+    The IPA computational toolkit provides specialized utilities for data processing, structural reduction, and forensic standard compliance validations. Most users can go straight to the core Data Analysis Platform. If starting with raw target outputs, use the file formatting utilities below to compile datasets first.
   </p>
 
 
@@ -28,7 +28,7 @@ permalink: /webapp.html
     
     <h2 style="color: #1b365d; margin-top: 0; margin-bottom: 12px; font-size: 1.7em;">Data Analysis Tool</h2>
     <p style="font-size: 1em; color: #2d3748; margin-bottom: 25px;">
-      The primary evaluation environment. Upload your formatted coordinate matrices and target arrays to run rigid body transformations, calculate spatial residuals, and execute Robust Omnibus precision tests against baseline trends.
+      The primary evaluation environment. Formatted coordinate matrices and target arrays can be uploaded to run rigid body transformations, calculate spatial residuals, and execute precision tests against baseline trends.
     </p>
 
     <a href="[Insert Live Data Analysis Tool URL Here]" target="_blank" style="display: inline-flex; align-items: center; background-color: #1b365d; color: #ffffff; padding: 14px 28px; font-size: 1.05em; font-weight: bold; text-decoration: none; border-radius: 4px; box-shadow: 0 3px 6px rgba(0,0,0,0.15); margin-bottom: 25px;">
@@ -53,7 +53,7 @@ permalink: /webapp.html
           Download Reference Examples (.zip)
         </a>
         <span style="display: block; font-size: 0.8em; color: #555; margin-top: 4px; line-height: 1.4;">
-          Includes nested tracking folders (Example 1 &amp; 2) capturing baseline and subsequent target timepoints.
+          Includes nested example folders tracking target coordinates over multiple timepoints.
         </span>
       </div>
     </div>
@@ -73,7 +73,7 @@ permalink: /webapp.html
         <span style="display: inline-block; background-color: #edf2f7; color: #4a5568; font-size: 0.7em; font-weight: bold; padding: 2px 6px; border-radius: 3px; margin-bottom: 8px; text-transform: uppercase;">CAD Workflows</span>
         <h3 style="color: #2d3748; margin-top: 0; margin-bottom: 8px; font-size: 1.2em;">DXF File Processor</h3>
         <p style="font-size: 0.85em; color: #555; margin-bottom: 15px; line-height: 1.5;">
-          Converts **four independent .dxf files** into the single, unified .csv matrix required by the analysis engine. Use this utility if your scanning software outputs data as spatial drawing schemas.
+          Converts four independent .dxf files into a single, unified data matrix. Use this utility if scanning software outputs target data within spatial drawing layouts.
         </p>
       </div>
       
@@ -97,7 +97,7 @@ permalink: /webapp.html
         <span style="display: inline-block; background-color: #edf2f7; color: #4a5568; font-size: 0.7em; font-weight: bold; padding: 2px 6px; border-radius: 3px; margin-bottom: 8px; text-transform: uppercase;">Text Workflows</span>
         <h3 style="color: #2d3748; margin-top: 0; margin-bottom: 8px; font-size: 1.2em;">Data Processing Tool</h3>
         <p style="font-size: 0.85em; color: #555; margin-bottom: 15px; line-height: 1.5;">
-          Converts **four independent files (either .txt or .csv)** into the single, unified .csv matrix layout. Use this formatting engine if your instrument exports raw tab-delimited or comma-separated tables.
+          A simple preparation utility [cite: 4] that combines four separate position scans into a single data file[cite: 6, 12, 43]. It automatically fixes scrambled target rows [cite: 12, 43] and formats raw coordinates [cite: 4, 18] so they match perfectly [cite: 11] and can be uploaded directly into the main Data Analysis Tool[cite: 5]. 
         </p>
       </div>
       
@@ -114,7 +114,7 @@ permalink: /webapp.html
           Sample Files (.zip)
         </a>
         <span style="display: block; font-size: 0.75em; color: #718096; margin-top: 4px; line-height: 1.3;">
-          Processes 4 input components to replicate the Analysis Example 1 file structure.
+          Processes four input text or comma-separated files [cite: 16, 17] to match the baseline dataset structure of the main platform[cite: 5, 67].
         </span>
       </div>
     </div>
