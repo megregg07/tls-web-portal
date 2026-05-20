@@ -106,9 +106,9 @@ permalink: /webapp.html
           Launch CVS/TXT Processor &rarr;
         </a>
         <br>
-        <a href="[Insert Processing Manual PDF URL]" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">
-          Download User Manual (PDF)
-        </a>
+        <a href="{{ '/assets/TLS_data_processing_tool_User_Manual.pdf' | relative_url }}" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">
+  Download User Manual (PDF)
+</a>
         <span style="color: #ccc; margin: 0 4px;">|</span>
         <a href="[Insert Processing Sample ZIP URL]" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">
           Sample Files (.zip)
