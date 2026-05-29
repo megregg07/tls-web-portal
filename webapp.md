@@ -35,7 +35,7 @@ permalink: /webapp.html
       <svg style="width: 22px; height: 22px; margin-right: 10px; fill: #ffffff; flex-shrink: 0;" viewBox="0 0 24 24">
         <path d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/>
       </svg>
-      Launch IPA Data Analysis Tool
+      Launch IPA Analysis Tool
     </a>
 
     <div style="display: flex; gap: 20px; flex-wrap: wrap; border-top: 1px solid #d0e0f0; padding-top: 20px;">
@@ -64,7 +64,7 @@ permalink: /webapp.html
 
 
   <div style="text-align: center; margin: 35px 0 25px 0;">
-    <span style="background-color: #ffffff; padding: 0 15px; color: #718096; font-size: 0.9em; font-weight: bold; text-transform: uppercase; letter-spacing: 0.05em;">File Preparation Utilities (Optional)</span>
+    <span style="background-color: #ffffff; padding: 0 15px; color: #718096; font-size: 0.9em; font-weight: bold; text-transform: uppercase; letter-spacing: 0.05em;">Data Processing Tools</span>
     <hr style="border: 0; border-top: 1px solid #e2e8f0; margin-top: -10px; z-index: -1;">
   </div>
 
@@ -74,7 +74,7 @@ permalink: /webapp.html
     <div style="flex: 1; min-width: 280px; background-color: #ffffff; border: 1px solid #e2e8f0; border-top: 4px solid #718096; padding: 20px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.02); display: flex; flex-direction: column; justify-content: space-between;">
       <div>
         <span style="display: inline-block; background-color: #edf2f7; color: #4a5568; font-size: 0.7em; font-weight: bold; padding: 2px 6px; border-radius: 3px; margin-bottom: 8px; text-transform: uppercase;">DXF Files</span>
-        <h3 style="color: #2d3748; margin-top: 0; margin-bottom: 8px; font-size: 1.2em;">Data Processing Tool (.dxf)</h3>
+        <h3 style="color: #2d3748; margin-top: 0; margin-bottom: 8px; font-size: 1.2em;">Data Processing for DXF Files</h3>
         <p style="font-size: 0.85em; color: #555; margin-bottom: 15px; line-height: 1.5;">
           Converts four .dxf scan files into a single .csv data file adhering to the data formatting required by the main IPA Analysis Tool.
         </p>
@@ -92,7 +92,7 @@ permalink: /webapp.html
     <div style="flex: 1; min-width: 280px; background-color: #ffffff; border: 1px solid #e2e8f0; border-top: 4px solid #718096; padding: 20px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.02); display: flex; flex-direction: column; justify-content: space-between;">
       <div>
         <span style="display: inline-block; background-color: #edf2f7; color: #4a5568; font-size: 0.7em; font-weight: bold; padding: 2px 6px; border-radius: 3px; margin-bottom: 8px; text-transform: uppercase;">CSV/TXT files</span>
-        <h3 style="color: #2d3748; margin-top: 0; margin-bottom: 8px; font-size: 1.2em;">Data Processing Tool (.csv/.txt)</h3>
+        <h3 style="color: #2d3748; margin-top: 0; margin-bottom: 8px; font-size: 1.2em;">Data Processing for CSV/TXT Files</h3>
         <p style="font-size: 0.85em; color: #555; margin-bottom: 15px; line-height: 1.5;">
           Converts four .csv or .txt files into a single .csv data file adhering to the data formatting required by the main IPA Analysis Tool.
         </p>
