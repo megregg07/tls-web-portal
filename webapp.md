@@ -46,8 +46,8 @@ permalink: /webapp.html
           Download User Manual (PDF)
         </a>
         <span style="display: block; font-size: 0.8em; color: #555; margin-top: 4px; line-height: 1.4;">
-        User manual for the IPA Data Analysis Tool.
-        <\span>
+          User manual for the IPA Data Analysis Tool.
+        </span>
       </div>
       <div style="flex: 1; min-width: 240px;">
         <strong style="color: #1b365d; font-size: 0.9em; display: block; margin-bottom: 5px;">Validation Sample Data Bundle:</strong>
@@ -81,17 +81,11 @@ permalink: /webapp.html
       </div>
       
       <div style="border-top: 1px solid #edf2f7; padding-top: 12px; margin-top: 10px;">
-        <a href="[Insert DXF Tool URL]" target="_blank" style="color: #1b365d; font-weight: bold; text-decoration: none; font-size: 0.9em; display: inline-block; margin-bottom: 8px;">
-          Launch DXF Processor &rarr;
-        </a>
+        <a href="[Insert DXF Tool URL]" target="_blank" style="color: #1b365d; font-weight: bold; text-decoration: none; font-size: 0.9em; display: inline-block; margin-bottom: 8px;">Launch DXF Processor &rarr;</a>
         <br>
-        <a href="{{ '/assets/DXFdataprocessing_UserManual.pdf' | relative_url }}" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">
-          Download User Manual (PDF)
-        </a>
+        <a href="{{ '/assets/DXFdataprocessing_UserManual.pdf' | relative_url }}" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">Download User Manual (PDF)</a>
         <span style="color: #ccc; margin: 0 4px;">|</span>
-        <a href="{{ '/assets/data_processing_examples_DXF.zip' | relative_url }}" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">
-          Sample Files (.zip)
-        </a>
+        <a href="{{ '/assets/data_processing_examples_DXF.zip' | relative_url }}" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">Sample Files (.zip)</a>
       </div>
     </div>
 
@@ -105,17 +99,11 @@ permalink: /webapp.html
       </div>
       
       <div style="border-top: 1px solid #edf2f7; padding-top: 12px; margin-top: 10px;">
-        <a href="[Insert Data Processing Tool URL]" target="_blank" style="color: #1b365d; font-weight: bold; text-decoration: none; font-size: 0.9em; display: inline-block; margin-bottom: 8px;">
-          Launch CVS/TXT Processor &rarr;
-        </a>
+        <a href="[Insert Data Processing Tool URL]" target="_blank" style="color: #1b365d; font-weight: bold; text-decoration: none; font-size: 0.9em; display: inline-block; margin-bottom: 8px;">Launch CVS/TXT Processor &rarr;</a>
         <br>
-        <a href="{{ '/assets/TLS_data_processing_tool_User_Manual.pdf' | relative_url }}" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">
-  Download User Manual (PDF)
-</a>
+        <a href="{{ '/assets/TLS_data_processing_tool_User_Manual.pdf' | relative_url }}" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">Download User Manual (PDF)</a>
         <span style="color: #ccc; margin: 0 4px;">|</span>
-        <a href="{{ '/assets/data_processing_examples_CSV_TXT.zip' | relative_url }}" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">
-  Sample Files (.zip)
-</a>
+        <a href="{{ '/assets/data_processing_examples_CSV_TXT.zip' | relative_url }}" target="_blank; color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">Sample Files (.zip)</a>
       </div>
     </div>
 
@@ -132,5 +120,3 @@ permalink: /webapp.html
   </div>
 
 </div>
-
-
