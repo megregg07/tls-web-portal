@@ -73,7 +73,7 @@ permalink: /webapp.html
         <span style="display: inline-block; background-color: #edf2f7; color: #4a5568; font-size: 0.7em; font-weight: bold; padding: 2px 6px; border-radius: 3px; margin-bottom: 8px; text-transform: uppercase;">DXF Files</span>
         <h3 style="color: #2d3748; margin-top: 0; margin-bottom: 8px; font-size: 1.2em;">Data Processing Tool (.dxf)</h3>
         <p style="font-size: 0.85em; color: #555; margin-bottom: 15px; line-height: 1.5;">
-          Converts four .dxf scan files into a single .csv data file adhering to the TLS data formatting required by the main Data Analysis Tool.
+          Converts four .dxf scan files into a single .csv data file adhering to the data formatting required by the main Data Analysis Tool.
         </p>
       </div>
       
@@ -97,7 +97,7 @@ permalink: /webapp.html
         <span style="display: inline-block; background-color: #edf2f7; color: #4a5568; font-size: 0.7em; font-weight: bold; padding: 2px 6px; border-radius: 3px; margin-bottom: 8px; text-transform: uppercase;">CSV/TXT files</span>
         <h3 style="color: #2d3748; margin-top: 0; margin-bottom: 8px; font-size: 1.2em;">Data Processing Tool (.csv/.txt)</h3>
         <p style="font-size: 0.85em; color: #555; margin-bottom: 15px; line-height: 1.5;">
-          Converts four .csv or .txt files into a single .csv data file adhering to the TLS data formatting required by the main Data Analysis Tool.
+          Converts four .csv or .txt files into a single .csv data file adhering to the data formatting required by the main Data Analysis Tool.
         </p>
       </div>
       
