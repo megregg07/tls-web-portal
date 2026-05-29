@@ -82,8 +82,8 @@ permalink: /webapp.html
           Launch DXF Processor &rarr;
         </a>
         <br>
-        <a href="{{ '/assets/TLS_data_processing_tool_DXF_User_Manual.pdf' | relative_url }}" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">
-          Download User Manual (PDF)
+        <a href="assets/TLS_data_processing_tool_DXF_User_Manual.pdf" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">
+  Download User Manual (PDF)
         </a>
         <span style="color: #ccc; margin: 0 4px;">|</span>
         <a href="[Insert DXF Data URL]" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">
