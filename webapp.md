@@ -103,7 +103,7 @@ permalink: /webapp.html
         <br>
         <a href="{{ '/assets/TLS_data_processing_tool_User_Manual.pdf' | relative_url }}" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">Download User Manual (PDF)</a>
         <span style="color: #ccc; margin: 0 4px;">|</span>
-        <a href="{{ '/assets/data_processing_examples_CSV_TXT.zip' | relative_url }}" target="_blank"; color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">Sample Files (.zip)</a>
+        <a href="{{ '/assets/data_processing_examples_CSV_TXT.zip' | relative_url }}" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">Sample Files (.zip)</a>
       </div>
     </div>
 
