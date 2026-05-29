@@ -86,12 +86,12 @@ permalink: /webapp.html
         </a>
         <br>
         <a href="{{ '/assets/DXFdataprocessing_UserManual.pdf' | relative_url }}" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">
-  Download User Manual (PDF)
-</a>
+          Download User Manual (PDF)
+        </a>
         <span style="color: #ccc; margin: 0 4px;">|</span>
         <a href="{{ '/assets/data_processing_examples_DXF.zip' | relative_url }}" target="_blank" style="color: #718096; font-size: 0.8em; text-decoration: none; font-weight: bold;">
-  Sample Files (.zip)
-</a>
+          Sample Files (.zip)
+        </a>
       </div>
     </div>
 
