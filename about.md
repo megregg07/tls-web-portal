@@ -39,7 +39,7 @@ permalink: /about.html
   </ul>
 
   <p style="margin-top: 20px;">
-    If the test procedure has been performed before, the user may optionally test if the instrument's spherical precision has changed.
+    If the test procedure has been performed before, the user may optionally test if the instrument's performance has changed over time.
   </p>
    <p style="margin-top: 20px;">
     The test procedure takes less than 30 min to perform, with additional time for data processing. 
