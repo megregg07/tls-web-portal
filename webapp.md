@@ -19,16 +19,16 @@ permalink: /webapp.html
 
   <h1 style="color: #1b365d; margin-top: 0; margin-bottom: 15px; font-size: 2.2em;">TLS Web Application Suite</h1>
   <p style="margin-bottom: 35px; color: #555;">
-    The IPA computational toolkit provides specialized utilities for data processing, structural reduction, and forensic standard compliance validations. The IPA Analysis Tool has specific data formatting requirements (see User Manual for details). If your TLS data are already in the required format, you can go straight to launching the IPA Data Analysis Tool. If starting with four individual scan files, you will need to use one of the data processing tools below to compile your data into the appropriate format. 
+    The IPA computational toolkit provides specialized utilities for data processing, structural reduction, and forensic standard compliance validations. The IPA Analysis Tool has specific data formatting requirements which are detailed in the User Manual If your TLS data are already in the required format, you can go straight to launching the IPA Analysis Tool. If starting with four individual scan files, you will need to use one of the data processing tools below to compile your data into the appropriate format before using the IPA Analysis Tool. 
   </p>
 
 
   <div style="background-color: #f0f4f8; border: 2px solid #b8daff; border-top: 6px solid #1b365d; border-radius: 8px; padding: 30px; margin-bottom: 40px; box-shadow: 0 4px 15px rgba(27, 54, 93, 0.08);">
-    <span style="display: inline-block; background-color: #1b365d; color: #ffffff; font-size: 0.75em; font-weight: bold; padding: 4px 10px; border-radius: 3px; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.05em;">Core Analysis Platform</span>
+    <span style="display: inline-block; background-color: #1b365d; color: #ffffff; font-size: 0.75em; font-weight: bold; padding: 4px 10px; border-radius: 3px; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.05em;">Analyze IPA Data</span>
     
-    <h2 style="color: #1b365d; margin-top: 0; margin-bottom: 12px; font-size: 1.7em;">Data Analysis Tool</h2>
+    <h2 style="color: #1b365d; margin-top: 0; margin-bottom: 12px; font-size: 1.7em;">IPA Analysis Tool</h2>
     <p style="font-size: 1em; color: #2d3748; margin-bottom: 25px;">
-      The primary evaluation environment. Formatted coordinate matrices and target arrays can be uploaded to run rigid body transformations, calculate spatial residuals, and execute precision tests against baseline trends.
+      Appropriately formatted data can be uploaded to perform the IPA Part I (Accuracy) and Part II (Precision) Analyses. Once analyzed, users can download a PDF report of the results.
     </p>
 
     <a href="[Insert Live Data Analysis Tool URL Here]" target="_blank" style="display: inline-flex; align-items: center; background-color: #1b365d; color: #ffffff; padding: 14px 28px; font-size: 1.05em; font-weight: bold; text-decoration: none; border-radius: 4px; box-shadow: 0 3px 6px rgba(0,0,0,0.15); margin-bottom: 25px;">
@@ -40,17 +40,17 @@ permalink: /webapp.html
 
     <div style="display: flex; gap: 20px; flex-wrap: wrap; border-top: 1px solid #d0e0f0; padding-top: 20px;">
       <div style="flex: 1; min-width: 240px;">
-        <strong style="color: #1b365d; font-size: 0.9em; display: block; margin-bottom: 5px;">Platform Documentation:</strong>
+        <strong style="color: #1b365d; font-size: 0.9em; display: block; margin-bottom: 5px;">Documentation:</strong>
         <a href="[Insert Analysis Manual PDF URL Here]" target="_blank" style="color: #1b365d; font-size: 0.9em; text-decoration: none; font-weight: bold; display: inline-flex; align-items: center;">
           <svg style="width:16px; height:16px; margin-right:6px; fill:#1b365d;" viewBox="0 0 24 24"><path d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm2 16H8v-2h8v2zm0-4H8v-2h8v2zm-3-5V3.5L18.5 9H13z"/></svg>
           Download User Manual (PDF)
         </a>
         <span style="display: block; font-size: 0.8em; color: #555; margin-top: 4px; line-height: 1.4;">
-          User manual for the IPA Data Analysis Tool.
+          User manual for the IPA Analysis Tool.
         </span>
       </div>
       <div style="flex: 1; min-width: 240px;">
-        <strong style="color: #1b365d; font-size: 0.9em; display: block; margin-bottom: 5px;">Validation Sample Data Bundle:</strong>
+        <strong style="color: #1b365d; font-size: 0.9em; display: block; margin-bottom: 5px;">Example Data:</strong>
         <a href="[Insert Analysis Sample ZIP URL Here]" target="_blank" style="color: #1b365d; font-size: 0.9em; text-decoration: none; font-weight: bold; display: inline-flex; align-items: center;">
           <svg style="width:16px; height:16px; margin-right:6px; fill:#1b365d;" viewBox="0 0 24 24"><path d="M10 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"/></svg>
           Download Examples (.zip)
@@ -76,7 +76,7 @@ permalink: /webapp.html
         <span style="display: inline-block; background-color: #edf2f7; color: #4a5568; font-size: 0.7em; font-weight: bold; padding: 2px 6px; border-radius: 3px; margin-bottom: 8px; text-transform: uppercase;">DXF Files</span>
         <h3 style="color: #2d3748; margin-top: 0; margin-bottom: 8px; font-size: 1.2em;">Data Processing Tool (.dxf)</h3>
         <p style="font-size: 0.85em; color: #555; margin-bottom: 15px; line-height: 1.5;">
-          Converts four .dxf scan files into a single .csv data file adhering to the data formatting required by the main Data Analysis Tool.
+          Converts four .dxf scan files into a single .csv data file adhering to the data formatting required by the main IPA Analysis Tool.
         </p>
       </div>
       
@@ -94,7 +94,7 @@ permalink: /webapp.html
         <span style="display: inline-block; background-color: #edf2f7; color: #4a5568; font-size: 0.7em; font-weight: bold; padding: 2px 6px; border-radius: 3px; margin-bottom: 8px; text-transform: uppercase;">CSV/TXT files</span>
         <h3 style="color: #2d3748; margin-top: 0; margin-bottom: 8px; font-size: 1.2em;">Data Processing Tool (.csv/.txt)</h3>
         <p style="font-size: 0.85em; color: #555; margin-bottom: 15px; line-height: 1.5;">
-          Converts four .csv or .txt files into a single .csv data file adhering to the data formatting required by the main Data Analysis Tool.
+          Converts four .csv or .txt files into a single .csv data file adhering to the data formatting required by the main IPA Analysis Tool.
         </p>
       </div>
       
