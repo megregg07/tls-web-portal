@@ -19,7 +19,7 @@ permalink: /webapp.html
 
   <h1 style="color: #1b365d; margin-top: 0; margin-bottom: 15px; font-size: 2.2em;">TLS Web Application Suite</h1>
   <p style="margin-bottom: 35px; color: #555;">
-    The IPA computational toolkit provides specialized utilities for data processing, structural reduction, and forensic standard compliance validations. Most users can go straight to the core Data Analysis Platform. If starting with raw target outputs, use the file formatting utilities below to compile datasets first.
+    The IPA computational toolkit provides specialized utilities for data processing, structural reduction, and forensic standard compliance validations. The IPA Analysis Tool has specific data formatting requirements (see User Manual for details). If your TLS data are already in the required format, you can go straight to launching the IPA Data Analysis Tool. If starting with four individual scan files, you will need to use one of the data processing tools below to compile your data into the appropriate format. 
   </p>
 
 
@@ -35,7 +35,7 @@ permalink: /webapp.html
       <svg style="width: 22px; height: 22px; margin-right: 10px; fill: #ffffff; flex-shrink: 0;" viewBox="0 0 24 24">
         <path d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"/>
       </svg>
-      Launch Data Analysis Platform
+      Launch IPA Data Analysis Tool
     </a>
 
     <div style="display: flex; gap: 20px; flex-wrap: wrap; border-top: 1px solid #d0e0f0; padding-top: 20px;">
@@ -50,10 +50,10 @@ permalink: /webapp.html
         <strong style="color: #1b365d; font-size: 0.9em; display: block; margin-bottom: 5px;">Validation Sample Data Bundle:</strong>
         <a href="[Insert Analysis Sample ZIP URL Here]" target="_blank" style="color: #1b365d; font-size: 0.9em; text-decoration: none; font-weight: bold; display: inline-flex; align-items: center;">
           <svg style="width:16px; height:16px; margin-right:6px; fill:#1b365d;" viewBox="0 0 24 24"><path d="M10 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"/></svg>
-          Download Reference Examples (.zip)
+          Download Examples (.zip)
         </a>
         <span style="display: block; font-size: 0.8em; color: #555; margin-top: 4px; line-height: 1.4;">
-          Includes nested example folders tracking target coordinates over multiple timepoints.
+          Data for the two examples discussed in the User Manual. 
         </span>
       </div>
     </div>
