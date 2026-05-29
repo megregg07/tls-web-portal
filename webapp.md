@@ -19,7 +19,7 @@ permalink: /webapp.html
 
   <h1 style="color: #1b365d; margin-top: 0; margin-bottom: 15px; font-size: 2.2em;">TLS Web Application Suite</h1>
   <p style="margin-bottom: 35px; color: #555;">
-    The IPA computational toolkit provides specialized utilities for data processing, structural reduction, and forensic standard compliance validations. The IPA Analysis Tool has specific data formatting requirements which are detailed in the User Manual If your TLS data are already in the required format, you can go straight to launching the IPA Analysis Tool. If starting with four individual scan files, you will need to use one of the data processing tools below to compile your data into the appropriate format before using the IPA Analysis Tool. 
+    The IPA computational toolkit provides utilities for processing and analyzing IPA data. The IPA Analysis Tool has specific data formatting requirements which are detailed in the User Manual. If your TLS data are already in the required format, you can go straight to launching the IPA Analysis Tool. If starting with four individual scan files, you will need to use one of the data processing tools below to compile your data into the appropriate format before using the IPA Analysis Tool. 
   </p>
 
 
